@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">FollowMe</string>
+
+    <string name="no_files">No files</string>
+    <string name="auth_title">Auth</string>
+    <string name="auth_message">Start browser to authorize?</string>
+    <string name="auth_positive_button">OK</string>
+    <string name="auth_negative_button">Exit</string>
+    <string name="loading_file_title">Loading file</string>
+    <string name="loading_file_cancel_button">Cancel</string>
+    <string name="loading_file_chooser_title">Open file</string>
+    <string name="loading_get_file_to_upload_chooser_title">Select file to upload</string>
+    <string name="actionbar_add_file">Add file</string>
+    <string name="actionbar_make_folder">Create folder</string>
+    <string name="get_file_unsupported_scheme">Unsupported scheme</string>
+    <string name="uploading_file_title">Uploading file</string>
+    <string name="file_uploaded_toast">File uploaded</string>
+    <string name="make_folder_title">Create folder</string>
+    <string name="make_folder_positive_button">Create</string>
+    <string name="make_folder_negative_button">Cancel</string>
+    <string name="make_folder_hint">Folder name</string>
+    <string name="progress_mkfolder_title">Creating folder</string>
+    <string name="progress_mkfolder_done">Folder created</string>
+    <string name="context_menu_delete">Delete</string>
+    <string name="context_menu_move">Rename / Move</string>
+    <string name="context_menu_publish">Publish / unpublish</string>
+    <string name="delete_file_title">Delete file</string>
+    <string name="delete_folder_title">Delete folder</string>
+    <string name="delete_item_positive_button">Delete</string>
+    <string name="delete_item_negative_button">Cancel</string>
+    <string name="delete_file_done">File deleted</string>
+    <string name="delete_folder_done">Folder deleted</string>
+    <string name="move_rename_item_hint">New name or path to move</string>
+    <string name="move_rename_item_title">Rename / Move</string>
+    <string name="move_rename_item_done">Rename or move completed</string>
+    <string name="move_rename_positive_button">Rename / move</string>
+    <string name="move_rename_negative_button">Cancel</string>
+    <string name="publish_show_url_title">Public url</string>
+    <string name="publish_show_url_positive_button">Revoke</string>
+    <string name="publish_show_url_negative_button">Close</string>
+    <string name="publish_show_url_revoked">Public url has been revoked</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
